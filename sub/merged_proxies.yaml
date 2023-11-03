@@ -81,17 +81,18 @@ proxies:
   up: 50 Mbps
   down: 100 Mbps
 - name: meta71
-  server: 108.181.22.239
-  port: 26789
+  server: www2.dtku49.xyz
+  port: 19881
   type: tuic
-  uuid: a6ccf4f3-2b05-48ff-b440-2e3dce3e216a
-  password: iLHa7ogC0RjF
+  uuid: 45e2b23a-1a49-49c4-9422-8d786887ef3d
+  password: 51UMpwpdw0Kw
   sni: bing.com
   alpn:
   - h3
   request-timeout: 8000
   udp-relay-mode: native
   skip-cert-verify: true
+  congestion-controller: bbr
 - name: meta81
   type: hysteria
   server: www.dtku50.xyz
@@ -106,16 +107,16 @@ proxies:
   down: 10
 - name: meta91
   type: vless
-  server: 45.150.165.121
-  port: 10306
+  server: 45.145.72.212
+  port: 443
   udp: true
-  uuid: 89a3befc-045b-4287-8b9f-f51c455f93be
+  uuid: 9fb058d9-f8f4-435d-988d-731ee5d087ad
   tls: true
-  servername: mensura.cdn-apple.com
+  servername: aod.itunes.apple.com
   flow: xtls-rprx-vision
   network: tcp
   reality-opts:
-    public-key: ec05-gX8GbyAZaJ72G4AWIadOsDk2_sZCDliuHZnwBc
+    public-key: Vlcavce9BuM8Q464JEff4gFUMmDkEFuqYbjjIilbe00
     short-id: 6ba85179e30d4fc2
   client-fingerprint: chrome
 - name: meta101

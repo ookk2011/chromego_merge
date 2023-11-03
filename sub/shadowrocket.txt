@@ -6,5 +6,5 @@ hysteria://109.104.152.149:48406?peer=www.amazon.cn&auth=xfNhrunYJ9GvDXCTktY2bIw
 hysteria://51.158.54.46:11926?peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&upmbps=11&downmbps=55&alpn=h3&obfs=&protocol=udp&fastopen=1#hysteria3
 vless://a2971a3e-d013-47b2-93c8-2ff2a4bcff2a@109.104.152.156:16717?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=ydGuypY0EPIAxMpi8L-yhWBtjyavZbtwo9JJk2K5G0Y&sni=aod.itunes.apple.com&spx=&sid=6ba85179e30d4fc2#REALITY3
 hysteria://www.dtku50.xyz:43250?peer=bing.com&auth=2S9M5Gs0pgRsaTObNghoLZx6wPkBJOGTFWvf4R06Us5hUNtfr7&insecure=1&upmbps=2&downmbps=10&alpn=h3&mport=43250&obfs=&protocol=udp&fastopen=1#hysteria7
-vless://89a3befc-045b-4287-8b9f-f51c455f93be@45.150.165.121:10306?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=ec05-gX8GbyAZaJ72G4AWIadOsDk2_sZCDliuHZnwBc&sni=mensura.cdn-apple.com#reality_meta8
+vless://9fb058d9-f8f4-435d-988d-731ee5d087ad@45.145.72.212:443?security=reality&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=Vlcavce9BuM8Q464JEff4gFUMmDkEFuqYbjjIilbe00&sni=aod.itunes.apple.com#reality_meta8
 hysteria://www3.dtku49.xyz:58693?peer=bing.com&auth=nbdyVMqucpFMmyRiwcRQFI7EeKzJWjPYuks3ZzEhCv6HjeZvbh&insecure=1&upmbps=11&downmbps=55&alpn=h3&mport=58693&obfs=&protocol=udp&fastopen=1#hysteria9
