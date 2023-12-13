@@ -110,19 +110,6 @@ proxies:
   down: 55 Mbps
   skip-cert-verify: true
 - name: meta81
-  server: 109.104.152.180
-  port: 22335
-  type: tuic
-  uuid: e78e1e93-a648-4974-b544-68f8b9fa0b81
-  password: dongtaiwang.com
-  sni: bing.com
-  alpn:
-  - h3
-  request-timeout: 8000
-  udp-relay-mode: native
-  skip-cert-verify: true
-  congestion-controller: bb
-- name: meta91
   type: hysteria
   server: www.dtku50.xyz
   port: 23577
@@ -134,6 +121,19 @@ proxies:
   auth_str: dongtaiwang.com
   up: 2
   down: 10
+- name: meta91
+  server: 108.181.22.239
+  port: 45600
+  type: tuic
+  uuid: 4576f920-975b-4ab4-b53a-bdcfa623124d
+  password: dongtaiwang.com
+  sni: bing.com
+  alpn:
+  - h3
+  request-timeout: 8000
+  udp-relay-mode: native
+  skip-cert-verify: true
+  congestion-controller: bbr
 - name: meta101
   type: hysteria
   server: 62.204.54.81
@@ -148,15 +148,15 @@ proxies:
   down: 10
 - name: hysteria0
   type: hysteria
-  server: 108.181.22.239
-  port: 61561
-  ports: 61561
-  auth_str: PBhG3zqMKaMO5ZnemDvLrZ6v0Fd7EqCutDvzLNtvWHJ6IpMWJg
+  server: 167.160.91.115
+  port: 41189
+  ports: 41189
+  auth_str: bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF
   up: 11
   down: 55
   fast-open: true
   protocol: udp
-  sni: bing.com
+  sni: www.amazon.cn
   skip-cert-verify: true
   alpn:
   - h3
@@ -176,15 +176,15 @@ proxies:
   - h3
 - name: hysteria2
   type: hysteria
-  server: 109.104.152.149
-  port: 48406
-  ports: 48406
-  auth_str: xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB
+  server: 108.181.22.239
+  port: 41146
+  ports: 41146
+  auth_str: dongtaiwang.com
   up: 11
   down: 55
   fast-open: true
   protocol: udp
-  sni: www.amazon.cn
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
