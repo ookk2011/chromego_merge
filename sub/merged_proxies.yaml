@@ -104,10 +104,23 @@ proxies:
   up: 2
   down: 10
 - name: meta91
-  server: 104.234.70.41
-  port: 22334
+  server: 64.110.25.10
+  port: 11227
   type: tuic
-  uuid: 3aafb5c0-b76b-4218-8f34-18075cd593f2
+  uuid: 764b539f-2d3c-4772-9731-5ebf6984af98
+  password: dongtaiwang.com
+  sni: bing.com
+  alpn:
+  - h3
+  request-timeout: 8000
+  udp-relay-mode: native
+  skip-cert-verify: true
+  congestion-controller: bbr
+- name: meta92
+  server: 104.234.70.41
+  port: 11223
+  type: tuic
+  uuid: c573056f-e44b-4244-8142-136753c3debe
   password: dongtaiwang.com
   sni: bing.com
   alpn:
@@ -200,6 +213,7 @@ proxy-groups:
   - meta71
   - meta81
   - meta91
+  - meta92
   - meta101
   - hysteria0
   - hysteria1
@@ -221,6 +235,7 @@ proxy-groups:
   - meta71
   - meta81
   - meta91
+  - meta92
   - meta101
   - hysteria0
   - hysteria1
