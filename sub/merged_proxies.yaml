@@ -117,18 +117,16 @@ proxies:
   skip-cert-verify: true
   congestion-controller: bbr
 - name: meta92
-  server: 104.234.70.41
-  port: 11223
-  type: tuic
-  uuid: c573056f-e44b-4244-8142-136753c3debe
+  type: hysteria2
+  server: 45.145.72.212
+  port: 23520
   password: dongtaiwang.com
-  sni: bing.com
   alpn:
   - h3
-  request-timeout: 8000
-  udp-relay-mode: native
+  sni: bing.com
+  up: 5 Mbps
+  down: 10 Mbps
   skip-cert-verify: true
-  congestion-controller: bbr
 - name: meta101
   type: hysteria
   server: 62.204.54.81
