@@ -116,17 +116,6 @@ proxies:
   udp-relay-mode: native
   skip-cert-verify: true
   congestion-controller: bbr
-- name: meta92
-  type: hysteria2
-  server: 45.145.72.212
-  port: 23520
-  password: dongtaiwang.com
-  alpn:
-  - h3
-  sni: bing.com
-  up: 1 Mbps
-  down: 5 Mbps
-  skip-cert-verify: true
 - name: meta101
   type: hysteria
   server: 62.204.54.81
@@ -211,7 +200,6 @@ proxy-groups:
   - meta71
   - meta81
   - meta91
-  - meta92
   - meta101
   - hysteria0
   - hysteria1
@@ -233,7 +221,6 @@ proxy-groups:
   - meta71
   - meta81
   - meta91
-  - meta92
   - meta101
   - hysteria0
   - hysteria1
