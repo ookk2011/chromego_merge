@@ -119,7 +119,7 @@ proxies:
 - name: meta101
   type: hysteria
   server: 62.204.54.81
-  port: 46333
+  port: 44550
   sni: bing.com
   skip-cert-verify: true
   alpn:
