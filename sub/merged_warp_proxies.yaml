@@ -100,7 +100,7 @@ proxies:
   down: 100 Mbps
 - name: meta71
   type: hysteria
-  server: www4.dtku49.xyz
+  server: www2.dtku48.xyz
   port: 22334
   auth-str: dongtaiwang.com
   alpn:
