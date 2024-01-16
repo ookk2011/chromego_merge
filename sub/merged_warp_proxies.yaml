@@ -122,15 +122,11 @@ proxies:
   up: 2
   down: 10
 - name: meta91
-  type: hysteria
-  server: 64.110.25.10
-  port: 44556
-  auth-str: dongtaiwang.com
-  alpn:
-  - h3
-  protocol: udp
-  up: 11 Mbps
-  down: 55 Mbps
+  type: hysteria2
+  server: 108.181.24.77
+  port: 18775
+  password: dongtaiwang.com
+  sni: bing.com
   skip-cert-verify: true
 - name: meta101
   type: hysteria
@@ -189,9 +185,9 @@ proxies:
 - name: hysteria3
   type: hysteria
   server: 51.158.54.46
-  port: 11926
-  ports: 11926
-  auth_str: Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs
+  port: 55396
+  ports: 55396
+  auth_str: dongtaiwang.com
   up: 11
   down: 55
   fast-open: true
