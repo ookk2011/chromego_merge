@@ -194,20 +194,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: reality0
-  type: vless
-  server: 108.181.22.213
-  port: 28945
-  uuid: 9cc39477-0d85-4419-84d4-fb7fc77668b3
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: m.media-amazon.com
-  reality-opts:
-    public-key: yKXmLTmXAi-BHBg3JpCz-NWUmVcKlfm7iMmVoq7YQx0
-    short-id: 6ba85179e30d4fc2
 - name: reality1
   type: vless
   server: 109.104.152.4
@@ -221,6 +207,20 @@ proxies:
   servername: mensura.cdn-apple.com
   reality-opts:
     public-key: QR_5pj5Kj8I3sO6-6ywnM7B1fE2-btdv-IFEas2JHgE
+    short-id: 6ba85179e30d4fc2
+- name: reality3
+  type: vless
+  server: 108.181.22.213
+  port: 28945
+  uuid: 9cc39477-0d85-4419-84d4-fb7fc77668b3
+  network: tcp
+  tls: true
+  udp: true
+  flow: xtls-rprx-vision
+  client-fingerprint: chrome
+  servername: m.media-amazon.com
+  reality-opts:
+    public-key: yKXmLTmXAi-BHBg3JpCz-NWUmVcKlfm7iMmVoq7YQx0
     short-id: 6ba85179e30d4fc2
 proxy-groups:
 - name: 节点选择
@@ -259,8 +259,8 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality0
   - reality1
+  - reality3
 - name: 手动选择
   type: select
   proxies:
@@ -279,8 +279,8 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality0
   - reality1
+  - reality3
 - name: 负载均衡
   type: load-balance
   proxies:
@@ -299,8 +299,8 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality0
   - reality1
+  - reality3
   url: http://www.gstatic.com/generate_204
   interval: 300
   strategy: round-robin
