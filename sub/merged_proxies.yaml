@@ -151,9 +151,9 @@ proxies:
   - h3
 - name: hysteria2
   type: hysteria
-  server: 108.181.22.239
-  port: 39967
-  ports: 39967
+  server: www.dtku40.xyz
+  port: 18490
+  ports: 18490
   auth_str: dongtaiwang.com
   up: 11
   down: 55
@@ -177,20 +177,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: reality1
-  type: vless
-  server: 108.181.22.213
-  port: 28945
-  uuid: 9cc39477-0d85-4419-84d4-fb7fc77668b3
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: m.media-amazon.com
-  reality-opts:
-    public-key: yKXmLTmXAi-BHBg3JpCz-NWUmVcKlfm7iMmVoq7YQx0
-    short-id: 6ba85179e30d4fc2
 - name: reality2
   type: vless
   server: 62.210.101.0
@@ -240,7 +226,6 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality1
   - reality2
   - reality3
 - name: 自动选择
@@ -264,7 +249,6 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality1
   - reality2
   - reality3
 rule-providers:
