@@ -115,18 +115,16 @@ proxies:
   up: 11 Mbps
   down: 55 Mbps
 - name: meta101
-  type: vless
-  server: 45.145.72.212
-  port: 11223
-  udp: true
-  uuid: 34d7aac1-fac7-4e17-b41e-5be028d286cd
-  tls: true
-  servername: addons.mozilla.org
-  flow: xtls-rprx-vision
-  network: tcp
-  reality-opts:
-    public-key: u24pYS0RqtYk8NBqtg4NIHUZIA0HmwuYw2RBIyt0T0c
-  client-fingerprint: chrome
+  type: ss
+  server: 62.204.54.81
+  port: 44550
+  cipher: 2022-blake3-chacha20-poly1305
+  password: 5IH4rBauUuOT4VpAshgMPMSQ3Tf+oJjDY/jEDbIel2Q=
+  plugin: shadow-tls
+  plugin-opts:
+    host: nijigen-works.jp
+    password: FHDLxKgzbcDCPmijble8uT1gddgBmOxA1XXeDgyqgGc=
+    version: 3
 - name: hysteria0
   type: hysteria
   server: 51.158.54.46
@@ -183,34 +181,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: reality2
-  type: vless
-  server: 62.210.101.0
-  port: 18700
-  uuid: e659661d-8439-46e0-b1ab-d75ceaf73404
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: update.microsoft
-  reality-opts:
-    public-key: PBRc2v9SSXpG4jjQRYNa-kgs8w9V4U3MNLuncd2d0hw
-    short-id: 6ba85179e30d4fc2
-- name: reality3
-  type: vless
-  server: 62.210.101.0
-  port: 18700
-  uuid: e659661d-8439-46e0-b1ab-d75ceaf73404
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: update.microsoft
-  reality-opts:
-    public-key: PBRc2v9SSXpG4jjQRYNa-kgs8w9V4U3MNLuncd2d0hw
-    short-id: 6ba85179e30d4fc2
 proxy-groups:
 - name: 节点选择
   type: select
@@ -232,8 +202,6 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality2
-  - reality3
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -255,8 +223,6 @@ proxy-groups:
   - hysteria1
   - hysteria2
   - hysteria3
-  - reality2
-  - reality3
 rule-providers:
   reject:
     type: http
