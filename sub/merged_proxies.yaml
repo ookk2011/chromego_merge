@@ -51,15 +51,65 @@ proxies:
   up: 50 Mbps
   down: 100 Mbps
 - name: meta41
-  type: hysteria
-  server: hy1.dtku47.xyz
-  port: 22334
-  auth-str: lASdKzWK0VxL
-  alpn:
-  - h3
-  protocol: udp
-  up: 50 Mbps
-  down: 100 Mbps
+  type: vmess
+  server: 104.26.9.22
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta42
+  type: vmess
+  server: 172.64.97.235
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta43
+  type: vmess
+  server: 104.19.38.28
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
+- name: meta44
+  type: vmess
+  server: 104.19.38.48
+  port: 8080
+  cipher: auto
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  network: ws
+  ws-opts:
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+    headers:
+      host: dual-nothing-prep-exit.trycloudflare.com
 - name: meta51
   type: hysteria
   server: hy2.dtku47.xyz
@@ -218,6 +268,9 @@ proxy-groups:
   - meta21
   - meta31
   - meta41
+  - meta42
+  - meta43
+  - meta44
   - meta51
   - meta61
   - meta71
@@ -239,6 +292,9 @@ proxy-groups:
   - meta21
   - meta31
   - meta41
+  - meta42
+  - meta43
+  - meta44
   - meta51
   - meta61
   - meta71
