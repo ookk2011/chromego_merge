@@ -221,9 +221,9 @@ proxies:
       down: 55
 - name: hysteria0
   type: hysteria
-  server: 108.181.5.133
-  port: 26022
-  ports: 26022
+  server: 109.104.152.194
+  port: 58510
+  ports: 58510
   auth_str: dongtaiwang.com
   up: 11
   down: 55
