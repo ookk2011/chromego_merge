@@ -181,11 +181,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip5.dtku47.xyz
+  servername: ip5.freegradely.xyz
   ws-opts:
     path: /WNh8bXQv/
     headers:
-      Host: ip5.dtku47.xyz
+      Host: ip5.freegradely.xyz
 - name: meta92
   type: vmess
   server: 162.159.136.208
@@ -196,11 +196,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip5.dtku47.xyz
+  servername: ip5.freegradely.xyz
   ws-opts:
     path: /WNh8bXQv/
     headers:
-      Host: ip5.dtku47.xyz
+      Host: ip5.freegradely.xyz
 - name: meta93
   type: vmess
   server: 172.64.144.66
@@ -211,11 +211,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip5.dtku47.xyz
+  servername: ip5.freegradely.xyz
   ws-opts:
     path: /WNh8bXQv/
     headers:
-      Host: ip5.dtku47.xyz
+      Host: ip5.freegradely.xyz
 - name: meta94
   type: vmess
   server: 104.19.38.88
@@ -226,11 +226,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip5.dtku47.xyz
+  servername: ip5.freegradely.xyz
   ws-opts:
     path: /WNh8bXQv/
     headers:
-      Host: ip5.dtku47.xyz
+      Host: ip5.freegradely.xyz
 - name: meta101
   type: vless
   server: 109.104.152.101
