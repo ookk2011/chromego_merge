@@ -150,7 +150,7 @@ proxies:
   down: 100 Mbps
 - name: meta71
   type: vmess
-  server: 104.21.238.38
+  server: 104.21.238.37
   port: 2095
   uuid: a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b
   alterId: 0
@@ -158,11 +158,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta72
   type: vmess
   server: 104.26.0.56
@@ -173,11 +173,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta73
   type: vmess
   server: 23.227.38.3
@@ -188,11 +188,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta74
   type: vmess
   server: 104.19.38.12
@@ -203,11 +203,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta75
   type: vmess
   server: 172.64.175.88
@@ -218,11 +218,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta76
   type: vmess
   server: 172.64.99.22
@@ -233,11 +233,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta77
   type: vmess
   server: 104.19.21.71
@@ -248,11 +248,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta78
   type: vmess
   server: 172.64.175.213
@@ -263,11 +263,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta79
   type: vmess
   server: 172.64.198.249
@@ -278,11 +278,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta710
   type: vmess
   server: 172.64.194.76
@@ -293,11 +293,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta711
   type: vmess
   server: 104.19.21.63
@@ -308,11 +308,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta712
   type: vmess
   server: 104.19.123.11
@@ -323,11 +323,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta713
   type: vmess
   server: 104.18.57.111
@@ -338,11 +338,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta714
   type: vmess
   server: 104.19.21.230
@@ -353,11 +353,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta715
   type: vmess
   server: 104.19.21.230
@@ -368,11 +368,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta716
   type: vmess
   server: 104.19.46.103
@@ -383,11 +383,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta717
   type: vmess
   server: 104.19.32.216
@@ -398,11 +398,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta718
   type: vmess
   server: 104.19.47.65
@@ -413,11 +413,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta719
   type: vmess
   server: 104.19.58.175
@@ -428,11 +428,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta720
   type: vmess
   server: 104.19.55.49
@@ -443,11 +443,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta721
   type: vmess
   server: 104.19.42.49
@@ -458,11 +458,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta722
   type: vmess
   server: 104.17.106.151
@@ -473,11 +473,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta723
   type: vmess
   server: 104.19.57.4
@@ -488,11 +488,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta724
   type: vmess
   server: 104.19.59.89
@@ -503,11 +503,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta725
   type: vmess
   server: 104.20.17.186
@@ -518,11 +518,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta726
   type: vmess
   server: 104.20.25.146
@@ -533,11 +533,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta727
   type: vmess
   server: 104.20.25.146
@@ -548,11 +548,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta728
   type: vmess
   server: 104.26.7.132
@@ -563,11 +563,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta729
   type: vmess
   server: 104.20.25.146
@@ -578,11 +578,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta730
   type: vmess
   server: 104.20.17.186
@@ -593,11 +593,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta731
   type: vmess
   server: 104.19.45.11
@@ -608,11 +608,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta732
   type: vmess
   server: 104.19.45.13
@@ -623,11 +623,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta733
   type: vmess
   server: 104.19.45.15
@@ -638,11 +638,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta734
   type: vmess
   server: 104.19.45.17
@@ -653,11 +653,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta735
   type: vmess
   server: 104.19.45.19
@@ -668,11 +668,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta736
   type: vmess
   server: 104.19.45.31
@@ -683,11 +683,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta737
   type: vmess
   server: 104.19.45.35
@@ -698,11 +698,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta738
   type: vmess
   server: 104.19.45.42
@@ -713,11 +713,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta739
   type: vmess
   server: 104.19.45.47
@@ -728,11 +728,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta740
   type: vmess
   server: 104.19.45.50
@@ -743,11 +743,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta741
   type: vmess
   server: 104.19.45.90
@@ -758,11 +758,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta742
   type: vmess
   server: 104.26.5.56
@@ -773,11 +773,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta743
   type: vmess
   server: 104.26.5.66
@@ -788,11 +788,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta744
   type: vmess
   server: 104.26.5.67
@@ -803,11 +803,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta745
   type: vmess
   server: 104.26.5.88
@@ -818,11 +818,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta746
   type: vmess
   server: 104.26.5.90
@@ -833,11 +833,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta747
   type: vmess
   server: 104.26.5.103
@@ -848,11 +848,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta748
   type: vmess
   server: 104.26.5.112
@@ -863,11 +863,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta749
   type: vmess
   server: 104.26.5.113
@@ -878,11 +878,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta750
   type: vmess
   server: 104.26.5.123
@@ -893,11 +893,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta751
   type: vmess
   server: 104.26.5.145
@@ -908,11 +908,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta752
   type: vmess
   server: 162.159.140.19
@@ -923,11 +923,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta753
   type: vmess
   server: 162.159.140.33
@@ -938,11 +938,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta754
   type: vmess
   server: 162.159.140.39
@@ -953,11 +953,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta755
   type: vmess
   server: 162.159.140.45
@@ -968,11 +968,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta756
   type: vmess
   server: 162.159.140.56
@@ -983,11 +983,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta757
   type: vmess
   server: 162.159.140.66
@@ -998,11 +998,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta758
   type: vmess
   server: 162.159.140.77
@@ -1013,11 +1013,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta759
   type: vmess
   server: 162.159.140.89
@@ -1028,11 +1028,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta760
   type: vmess
   server: 162.159.140.91
@@ -1043,11 +1043,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta761
   type: vmess
   server: 162.159.140.93
@@ -1058,11 +1058,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta762
   type: vmess
   server: 172.64.167.5
@@ -1073,11 +1073,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta763
   type: vmess
   server: 172.64.167.8
@@ -1088,11 +1088,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta764
   type: vmess
   server: 172.64.167.10
@@ -1103,11 +1103,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta765
   type: vmess
   server: 172.64.167.15
@@ -1118,11 +1118,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta766
   type: vmess
   server: 172.64.167.19
@@ -1133,11 +1133,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta767
   type: vmess
   server: 172.64.167.22
@@ -1148,11 +1148,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta768
   type: vmess
   server: 172.64.167.25
@@ -1163,11 +1163,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta769
   type: vmess
   server: 172.64.167.29
@@ -1178,11 +1178,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta770
   type: vmess
   server: 172.64.167.35
@@ -1193,11 +1193,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta771
   type: vmess
   server: 172.64.167.44
@@ -1208,11 +1208,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta772
   type: vmess
   server: 172.64.233.7
@@ -1223,11 +1223,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta773
   type: vmess
   server: 172.64.233.9
@@ -1238,11 +1238,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta774
   type: vmess
   server: 172.64.233.15
@@ -1253,11 +1253,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta775
   type: vmess
   server: 172.64.233.17
@@ -1268,11 +1268,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta776
   type: vmess
   server: 172.64.233.24
@@ -1283,11 +1283,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta777
   type: vmess
   server: 172.64.233.27
@@ -1298,11 +1298,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta778
   type: vmess
   server: 172.64.233.32
@@ -1313,11 +1313,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta779
   type: vmess
   server: 172.64.233.35
@@ -1328,11 +1328,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta780
   type: vmess
   server: 172.64.233.37
@@ -1343,11 +1343,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta781
   type: vmess
   server: 172.64.233.43
@@ -1358,11 +1358,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta782
   type: vmess
   server: 172.64.166.2
@@ -1373,11 +1373,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta783
   type: vmess
   server: 172.64.166.8
@@ -1388,11 +1388,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta784
   type: vmess
   server: 172.64.166.9
@@ -1403,11 +1403,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta785
   type: vmess
   server: 172.64.166.12
@@ -1418,11 +1418,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta786
   type: vmess
   server: 172.64.166.16
@@ -1433,11 +1433,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta787
   type: vmess
   server: 172.64.166.20
@@ -1448,11 +1448,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta788
   type: vmess
   server: 172.64.166.22
@@ -1463,11 +1463,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta789
   type: vmess
   server: 172.64.166.28
@@ -1478,11 +1478,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta790
   type: vmess
   server: 172.64.166.32
@@ -1493,11 +1493,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta791
   type: vmess
   server: 172.64.166.33
@@ -1508,11 +1508,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta792
   type: vmess
   server: fbi.gov
@@ -1523,11 +1523,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta793
   type: vmess
   server: shopify.com
@@ -1538,11 +1538,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta794
   type: vmess
   server: icook.tw
@@ -1553,11 +1553,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta795
   type: vmess
   server: ip.sb
@@ -1568,11 +1568,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta796
   type: vmess
   server: japan.com
@@ -1583,11 +1583,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta797
   type: vmess
   server: malaysia.com
@@ -1598,11 +1598,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta798
   type: vmess
   server: russia.com
@@ -1613,11 +1613,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta799
   type: vmess
   server: singapore.com
@@ -1628,11 +1628,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta7100
   type: vmess
   server: skk.moe
@@ -1643,11 +1643,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta7101
   type: vmess
   server: www.visa.com
@@ -1658,11 +1658,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta81
   type: vmess
   server: 104.21.238.37
@@ -1673,11 +1673,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta82
   type: vmess
   server: 104.26.0.56
@@ -1688,11 +1688,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta83
   type: vmess
   server: 23.227.38.3
@@ -1703,11 +1703,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta84
   type: vmess
   server: 104.19.38.12
@@ -1718,11 +1718,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta85
   type: vmess
   server: 172.64.175.88
@@ -1733,11 +1733,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta86
   type: vmess
   server: 172.64.99.22
@@ -1748,11 +1748,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta87
   type: vmess
   server: 104.19.21.71
@@ -1763,11 +1763,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta88
   type: vmess
   server: 172.64.175.213
@@ -1778,11 +1778,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta89
   type: vmess
   server: 172.64.198.249
@@ -1793,11 +1793,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta810
   type: vmess
   server: 172.64.194.76
@@ -1808,11 +1808,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta811
   type: vmess
   server: 104.19.21.63
@@ -1823,11 +1823,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta812
   type: vmess
   server: 104.19.123.11
@@ -1838,11 +1838,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta813
   type: vmess
   server: 104.18.57.111
@@ -1853,11 +1853,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta814
   type: vmess
   server: 104.19.21.230
@@ -1868,11 +1868,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta815
   type: vmess
   server: 104.19.21.230
@@ -1883,11 +1883,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta816
   type: vmess
   server: 104.19.46.103
@@ -1898,11 +1898,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta817
   type: vmess
   server: 104.19.32.216
@@ -1913,11 +1913,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta818
   type: vmess
   server: 104.19.47.65
@@ -1928,11 +1928,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta819
   type: vmess
   server: 104.19.58.175
@@ -1943,11 +1943,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta820
   type: vmess
   server: 104.19.55.49
@@ -1958,11 +1958,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta821
   type: vmess
   server: 104.19.42.49
@@ -1973,11 +1973,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta822
   type: vmess
   server: 104.17.106.151
@@ -1988,11 +1988,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta823
   type: vmess
   server: 104.19.57.4
@@ -2003,11 +2003,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta824
   type: vmess
   server: 104.19.59.89
@@ -2018,11 +2018,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta825
   type: vmess
   server: 104.20.17.186
@@ -2033,11 +2033,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta826
   type: vmess
   server: 104.20.25.146
@@ -2048,11 +2048,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta827
   type: vmess
   server: 104.20.25.146
@@ -2063,11 +2063,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta828
   type: vmess
   server: 104.26.7.132
@@ -2078,11 +2078,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta829
   type: vmess
   server: 104.20.25.146
@@ -2093,11 +2093,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta830
   type: vmess
   server: 104.20.17.186
@@ -2108,11 +2108,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta831
   type: vmess
   server: 104.19.45.11
@@ -2123,11 +2123,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta832
   type: vmess
   server: 104.19.45.13
@@ -2138,11 +2138,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta833
   type: vmess
   server: 104.19.45.15
@@ -2153,11 +2153,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta834
   type: vmess
   server: 104.19.45.17
@@ -2168,11 +2168,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta835
   type: vmess
   server: 104.19.45.19
@@ -2183,11 +2183,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta836
   type: vmess
   server: 104.19.45.31
@@ -2198,11 +2198,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta837
   type: vmess
   server: 104.19.45.35
@@ -2213,11 +2213,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta838
   type: vmess
   server: 104.19.45.42
@@ -2228,11 +2228,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta839
   type: vmess
   server: 104.19.45.47
@@ -2243,11 +2243,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta840
   type: vmess
   server: 104.19.45.50
@@ -2258,11 +2258,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta841
   type: vmess
   server: 104.19.45.90
@@ -2273,11 +2273,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta842
   type: vmess
   server: 104.26.5.56
@@ -2288,11 +2288,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta843
   type: vmess
   server: 104.26.5.66
@@ -2303,11 +2303,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta844
   type: vmess
   server: 104.26.5.67
@@ -2318,11 +2318,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta845
   type: vmess
   server: 104.26.5.88
@@ -2333,11 +2333,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta846
   type: vmess
   server: 104.26.5.90
@@ -2348,11 +2348,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta847
   type: vmess
   server: 104.26.5.103
@@ -2363,11 +2363,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta848
   type: vmess
   server: 104.26.5.112
@@ -2378,11 +2378,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta849
   type: vmess
   server: 104.26.5.113
@@ -2393,11 +2393,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta850
   type: vmess
   server: 104.26.5.123
@@ -2408,11 +2408,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta851
   type: vmess
   server: 104.26.5.145
@@ -2423,11 +2423,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta852
   type: vmess
   server: 162.159.140.19
@@ -2438,11 +2438,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta853
   type: vmess
   server: 162.159.140.33
@@ -2453,11 +2453,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta854
   type: vmess
   server: 162.159.140.39
@@ -2468,11 +2468,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta855
   type: vmess
   server: 162.159.140.45
@@ -2483,11 +2483,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta856
   type: vmess
   server: 162.159.140.56
@@ -2498,11 +2498,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta857
   type: vmess
   server: 162.159.140.66
@@ -2513,11 +2513,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta858
   type: vmess
   server: 162.159.140.77
@@ -2528,11 +2528,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta859
   type: vmess
   server: 162.159.140.89
@@ -2543,11 +2543,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta860
   type: vmess
   server: 162.159.140.91
@@ -2558,11 +2558,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta861
   type: vmess
   server: 162.159.140.93
@@ -2573,11 +2573,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta862
   type: vmess
   server: 172.64.167.5
@@ -2588,11 +2588,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta863
   type: vmess
   server: 172.64.167.8
@@ -2603,11 +2603,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta864
   type: vmess
   server: 172.64.167.10
@@ -2618,11 +2618,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta865
   type: vmess
   server: 172.64.167.15
@@ -2633,11 +2633,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta866
   type: vmess
   server: 172.64.167.19
@@ -2648,11 +2648,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta867
   type: vmess
   server: 172.64.167.22
@@ -2663,11 +2663,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta868
   type: vmess
   server: 172.64.167.25
@@ -2678,11 +2678,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta869
   type: vmess
   server: 172.64.167.29
@@ -2693,11 +2693,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta870
   type: vmess
   server: 172.64.167.35
@@ -2708,11 +2708,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta871
   type: vmess
   server: 172.64.167.44
@@ -2723,11 +2723,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta872
   type: vmess
   server: 172.64.233.7
@@ -2738,11 +2738,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta873
   type: vmess
   server: 172.64.233.9
@@ -2753,11 +2753,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta874
   type: vmess
   server: 172.64.233.15
@@ -2768,11 +2768,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta875
   type: vmess
   server: 172.64.233.17
@@ -2783,11 +2783,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta876
   type: vmess
   server: 172.64.233.24
@@ -2798,11 +2798,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta877
   type: vmess
   server: 172.64.233.27
@@ -2813,11 +2813,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta878
   type: vmess
   server: 172.64.233.32
@@ -2828,11 +2828,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta879
   type: vmess
   server: 172.64.233.35
@@ -2843,11 +2843,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta880
   type: vmess
   server: 172.64.233.37
@@ -2858,11 +2858,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta881
   type: vmess
   server: 172.64.233.43
@@ -2873,11 +2873,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta882
   type: vmess
   server: 172.64.166.2
@@ -2888,11 +2888,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta883
   type: vmess
   server: 172.64.166.8
@@ -2903,11 +2903,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta884
   type: vmess
   server: 172.64.166.9
@@ -2918,11 +2918,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta885
   type: vmess
   server: 172.64.166.12
@@ -2933,11 +2933,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta886
   type: vmess
   server: 172.64.166.16
@@ -2948,11 +2948,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta887
   type: vmess
   server: 172.64.166.20
@@ -2963,11 +2963,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta888
   type: vmess
   server: 172.64.166.22
@@ -2978,11 +2978,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta889
   type: vmess
   server: 172.64.166.28
@@ -2993,11 +2993,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta890
   type: vmess
   server: 172.64.166.32
@@ -3008,11 +3008,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta891
   type: vmess
   server: 172.64.166.33
@@ -3023,11 +3023,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta892
   type: vmess
   server: fbi.gov
@@ -3038,11 +3038,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta893
   type: vmess
   server: shopify.com
@@ -3053,11 +3053,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta894
   type: vmess
   server: icook.tw
@@ -3068,11 +3068,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta895
   type: vmess
   server: ip.sb
@@ -3083,11 +3083,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta896
   type: vmess
   server: japan.com
@@ -3098,11 +3098,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta897
   type: vmess
   server: malaysia.com
@@ -3113,11 +3113,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta898
   type: vmess
   server: russia.com
@@ -3128,11 +3128,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta899
   type: vmess
   server: singapore.com
@@ -3143,11 +3143,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta8100
   type: vmess
   server: skk.moe
@@ -3158,11 +3158,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta8101
   type: vmess
   server: www.visa.com
@@ -3173,11 +3173,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta91
   type: hysteria
   server: 46.29.166.206
@@ -3191,7 +3191,7 @@ proxies:
   down: 55 Mbps
 - name: meta101
   type: vmess
-  server: 104.21.238.36
+  server: 104.21.238.37
   port: 2095
   uuid: a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b
   alterId: 0
@@ -3199,11 +3199,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta102
   type: vmess
   server: 104.26.0.56
@@ -3214,11 +3214,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta103
   type: vmess
   server: 23.227.38.3
@@ -3229,11 +3229,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta104
   type: vmess
   server: 104.19.38.12
@@ -3244,11 +3244,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta105
   type: vmess
   server: 172.64.175.88
@@ -3259,11 +3259,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta106
   type: vmess
   server: 172.64.99.22
@@ -3274,11 +3274,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta107
   type: vmess
   server: 104.19.21.71
@@ -3289,11 +3289,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta108
   type: vmess
   server: 172.64.175.213
@@ -3304,11 +3304,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta109
   type: vmess
   server: 172.64.198.249
@@ -3319,11 +3319,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1010
   type: vmess
   server: 172.64.194.76
@@ -3334,11 +3334,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1011
   type: vmess
   server: 104.19.21.63
@@ -3349,11 +3349,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1012
   type: vmess
   server: 104.19.123.11
@@ -3364,11 +3364,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1013
   type: vmess
   server: 104.18.57.111
@@ -3379,11 +3379,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1014
   type: vmess
   server: 104.19.21.230
@@ -3394,11 +3394,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1015
   type: vmess
   server: 104.19.21.230
@@ -3409,11 +3409,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1016
   type: vmess
   server: 104.19.46.103
@@ -3424,11 +3424,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1017
   type: vmess
   server: 104.19.32.216
@@ -3439,11 +3439,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1018
   type: vmess
   server: 104.19.47.65
@@ -3454,11 +3454,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1019
   type: vmess
   server: 104.19.58.175
@@ -3469,11 +3469,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1020
   type: vmess
   server: 104.19.55.49
@@ -3484,11 +3484,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1021
   type: vmess
   server: 104.19.42.49
@@ -3499,11 +3499,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1022
   type: vmess
   server: 104.17.106.151
@@ -3514,11 +3514,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1023
   type: vmess
   server: 104.19.57.4
@@ -3529,11 +3529,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1024
   type: vmess
   server: 104.19.59.89
@@ -3544,11 +3544,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1025
   type: vmess
   server: 104.20.17.186
@@ -3559,11 +3559,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1026
   type: vmess
   server: 104.20.25.146
@@ -3574,11 +3574,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1027
   type: vmess
   server: 104.20.25.146
@@ -3589,11 +3589,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1028
   type: vmess
   server: 104.26.7.132
@@ -3604,11 +3604,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1029
   type: vmess
   server: 104.20.25.146
@@ -3619,11 +3619,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1030
   type: vmess
   server: 104.20.17.186
@@ -3634,11 +3634,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1031
   type: vmess
   server: 104.19.45.11
@@ -3649,11 +3649,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1032
   type: vmess
   server: 104.19.45.13
@@ -3664,11 +3664,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1033
   type: vmess
   server: 104.19.45.15
@@ -3679,11 +3679,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1034
   type: vmess
   server: 104.19.45.17
@@ -3694,11 +3694,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1035
   type: vmess
   server: 104.19.45.19
@@ -3709,11 +3709,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1036
   type: vmess
   server: 104.19.45.31
@@ -3724,11 +3724,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1037
   type: vmess
   server: 104.19.45.35
@@ -3739,11 +3739,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1038
   type: vmess
   server: 104.19.45.42
@@ -3754,11 +3754,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1039
   type: vmess
   server: 104.19.45.47
@@ -3769,11 +3769,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1040
   type: vmess
   server: 104.19.45.50
@@ -3784,11 +3784,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1041
   type: vmess
   server: 104.19.45.90
@@ -3799,11 +3799,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1042
   type: vmess
   server: 104.26.5.56
@@ -3814,11 +3814,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1043
   type: vmess
   server: 104.26.5.66
@@ -3829,11 +3829,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1044
   type: vmess
   server: 104.26.5.67
@@ -3844,11 +3844,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1045
   type: vmess
   server: 104.26.5.88
@@ -3859,11 +3859,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1046
   type: vmess
   server: 104.26.5.90
@@ -3874,11 +3874,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1047
   type: vmess
   server: 104.26.5.103
@@ -3889,11 +3889,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1048
   type: vmess
   server: 104.26.5.112
@@ -3904,11 +3904,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1049
   type: vmess
   server: 104.26.5.113
@@ -3919,11 +3919,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1050
   type: vmess
   server: 104.26.5.123
@@ -3934,11 +3934,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1051
   type: vmess
   server: 104.26.5.145
@@ -3949,11 +3949,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1052
   type: vmess
   server: 162.159.140.19
@@ -3964,11 +3964,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1053
   type: vmess
   server: 162.159.140.33
@@ -3979,11 +3979,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1054
   type: vmess
   server: 162.159.140.39
@@ -3994,11 +3994,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1055
   type: vmess
   server: 162.159.140.45
@@ -4009,11 +4009,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1056
   type: vmess
   server: 162.159.140.56
@@ -4024,11 +4024,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1057
   type: vmess
   server: 162.159.140.66
@@ -4039,11 +4039,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1058
   type: vmess
   server: 162.159.140.77
@@ -4054,11 +4054,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1059
   type: vmess
   server: 162.159.140.89
@@ -4069,11 +4069,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1060
   type: vmess
   server: 162.159.140.91
@@ -4084,11 +4084,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1061
   type: vmess
   server: 162.159.140.93
@@ -4099,11 +4099,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1062
   type: vmess
   server: 172.64.167.5
@@ -4114,11 +4114,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1063
   type: vmess
   server: 172.64.167.8
@@ -4129,11 +4129,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1064
   type: vmess
   server: 172.64.167.10
@@ -4144,11 +4144,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1065
   type: vmess
   server: 172.64.167.15
@@ -4159,11 +4159,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1066
   type: vmess
   server: 172.64.167.19
@@ -4174,11 +4174,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1067
   type: vmess
   server: 172.64.167.22
@@ -4189,11 +4189,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1068
   type: vmess
   server: 172.64.167.25
@@ -4204,11 +4204,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1069
   type: vmess
   server: 172.64.167.29
@@ -4219,11 +4219,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1070
   type: vmess
   server: 172.64.167.35
@@ -4234,11 +4234,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1071
   type: vmess
   server: 172.64.167.44
@@ -4249,11 +4249,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1072
   type: vmess
   server: 172.64.233.7
@@ -4264,11 +4264,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1073
   type: vmess
   server: 172.64.233.9
@@ -4279,11 +4279,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1074
   type: vmess
   server: 172.64.233.15
@@ -4294,11 +4294,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1075
   type: vmess
   server: 172.64.233.17
@@ -4309,11 +4309,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1076
   type: vmess
   server: 172.64.233.24
@@ -4324,11 +4324,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1077
   type: vmess
   server: 172.64.233.27
@@ -4339,11 +4339,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1078
   type: vmess
   server: 172.64.233.32
@@ -4354,11 +4354,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1079
   type: vmess
   server: 172.64.233.35
@@ -4369,11 +4369,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1080
   type: vmess
   server: 172.64.233.37
@@ -4384,11 +4384,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1081
   type: vmess
   server: 172.64.233.43
@@ -4399,11 +4399,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1082
   type: vmess
   server: 172.64.166.2
@@ -4414,11 +4414,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1083
   type: vmess
   server: 172.64.166.8
@@ -4429,11 +4429,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1084
   type: vmess
   server: 172.64.166.9
@@ -4444,11 +4444,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1085
   type: vmess
   server: 172.64.166.12
@@ -4459,11 +4459,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1086
   type: vmess
   server: 172.64.166.16
@@ -4474,11 +4474,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1087
   type: vmess
   server: 172.64.166.20
@@ -4489,11 +4489,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1088
   type: vmess
   server: 172.64.166.22
@@ -4504,11 +4504,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1089
   type: vmess
   server: 172.64.166.28
@@ -4519,11 +4519,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1090
   type: vmess
   server: 172.64.166.32
@@ -4534,11 +4534,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1091
   type: vmess
   server: 172.64.166.33
@@ -4549,11 +4549,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1092
   type: vmess
   server: fbi.gov
@@ -4564,11 +4564,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1093
   type: vmess
   server: shopify.com
@@ -4579,11 +4579,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1094
   type: vmess
   server: icook.tw
@@ -4594,11 +4594,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1095
   type: vmess
   server: ip.sb
@@ -4609,11 +4609,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1096
   type: vmess
   server: japan.com
@@ -4624,11 +4624,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1097
   type: vmess
   server: malaysia.com
@@ -4639,11 +4639,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1098
   type: vmess
   server: russia.com
@@ -4654,11 +4654,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta1099
   type: vmess
   server: singapore.com
@@ -4669,11 +4669,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta10100
   type: vmess
   server: skk.moe
@@ -4684,11 +4684,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: meta10101
   type: vmess
   server: www.visa.com
@@ -4699,11 +4699,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: ip7.8084726.xyz
+  servername: ip8.8084726.xyz
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip7.8084726.xyz
+      Host: ip8.8084726.xyz
 - name: hysteria0
   type: hysteria
   server: 46.17.43.223
