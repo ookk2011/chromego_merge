@@ -236,7 +236,7 @@ proxies:
   - h3
 - name: reality0
   type: vless
-  server: 36.226.252.19
+  server: 36.226.244.225
   port: 56870
   uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
   network: tcp
@@ -250,7 +250,7 @@ proxies:
     short-id: 239c3cef
 - name: reality1
   type: vless
-  server: 36.226.252.19
+  server: 36.226.244.225
   port: 56870
   uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
   network: tcp
@@ -264,7 +264,7 @@ proxies:
     short-id: 239c3cef
 - name: reality2
   type: vless
-  server: 36.226.252.19
+  server: 36.226.244.225
   port: 56870
   uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
   network: tcp
@@ -278,7 +278,7 @@ proxies:
     short-id: 239c3cef
 - name: reality3
   type: vless
-  server: 36.226.252.19
+  server: 36.226.244.225
   port: 56870
   uuid: 7c4efc45-42f7-48d8-a741-6093cd2886a7
   network: tcp
