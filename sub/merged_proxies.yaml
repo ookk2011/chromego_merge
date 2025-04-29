@@ -110,26 +110,6 @@ proxies:
     path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
     headers:
       host: dual-nothing-prep-exit.trycloudflare.com
-- name: meta51
-  type: hysteria
-  server: hy2.dtku47.xyz
-  port: 15566
-  auth-str: jQrGpwSqp34P
-  alpn:
-  - h3
-  protocol: udp
-  up: 50 Mbps
-  down: 100 Mbps
-- name: meta61
-  type: hysteria
-  server: hy1.dtku47.xyz
-  port: 22334
-  auth-str: lASdKzWK0VxL
-  alpn:
-  - h3
-  protocol: udp
-  up: 50 Mbps
-  down: 100 Mbps
 - name: meta71
   type: hysteria
   server: 208.87.243.151
@@ -259,20 +239,6 @@ proxies:
   reality-opts:
     public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
     short-id: e12d7fdb
-- name: reality2
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
 - name: reality3
   type: vless
   server: 1.162.51.106
@@ -301,8 +267,6 @@ proxy-groups:
   - meta42
   - meta43
   - meta44
-  - meta51
-  - meta61
   - meta71
   - meta81
   - meta91
@@ -313,7 +277,6 @@ proxy-groups:
   - hysteria3
   - reality0
   - reality1
-  - reality2
   - reality3
 - name: 自动选择
   type: url-test
@@ -329,8 +292,6 @@ proxy-groups:
   - meta42
   - meta43
   - meta44
-  - meta51
-  - meta61
   - meta71
   - meta81
   - meta91
@@ -341,7 +302,6 @@ proxy-groups:
   - hysteria3
   - reality0
   - reality1
-  - reality2
   - reality3
 rule-providers:
   reject:
