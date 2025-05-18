@@ -38,16 +38,6 @@ proxies:
   - 1.1.1.1
   - 8.8.8.8
   dialer-proxy: WARP前置节点
-- name: meta11
-  type: hysteria
-  server: hy2.dtku47.xyz
-  port: 15566
-  auth-str: jQrGpwSqp34P
-  alpn:
-  - h3
-  protocol: udp
-  up: 50 Mbps
-  down: 100 Mbps
 - name: meta21
   type: hysteria
   server: clash1.dtku47.xyz
@@ -207,20 +197,6 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: hysteria1
-  type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
-  auth_str: dongtaiwang.com
-  up: 11
-  down: 55
-  fast-open: true
-  protocol: udp
-  sni: apple.com
-  skip-cert-verify: true
-  alpn:
-  - h3
 - name: hysteria2
   type: hysteria
   server: 185.22.155.71
@@ -277,34 +253,6 @@ proxies:
   reality-opts:
     public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
     short-id: e12d7fdb
-- name: reality2
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
-- name: reality3
-  type: vless
-  server: 1.162.51.106
-  port: 37898
-  uuid: ec302de4-6b3d-4f03-a228-3c6d303ed370
-  network: tcp
-  tls: true
-  udp: true
-  flow: xtls-rprx-vision
-  client-fingerprint: chrome
-  servername: www.yahoo.com
-  reality-opts:
-    public-key: v6uWJJmVGFPd0K040QK3PJHCbPc74kXFoQmAhpu30jQ
-    short-id: e12d7fdb
 proxy-groups:
 - name: 节点选择
   type: select
@@ -328,7 +276,6 @@ proxy-groups:
   tolerance: 50
   proxies:
   - 油管-绵阿羊
-  - meta11
   - meta21
   - meta31
   - meta41
@@ -342,18 +289,14 @@ proxy-groups:
   - meta91
   - meta101
   - hysteria0
-  - hysteria1
   - hysteria2
   - hysteria3
   - reality0
   - reality1
-  - reality2
-  - reality3
 - name: 手动选择
   type: select
   proxies:
   - 油管-绵阿羊
-  - meta11
   - meta21
   - meta31
   - meta41
@@ -367,18 +310,14 @@ proxy-groups:
   - meta91
   - meta101
   - hysteria0
-  - hysteria1
   - hysteria2
   - hysteria3
   - reality0
   - reality1
-  - reality2
-  - reality3
 - name: 负载均衡
   type: load-balance
   proxies:
   - 油管-绵阿羊
-  - meta11
   - meta21
   - meta31
   - meta41
@@ -392,13 +331,10 @@ proxy-groups:
   - meta91
   - meta101
   - hysteria0
-  - hysteria1
   - hysteria2
   - hysteria3
   - reality0
   - reality1
-  - reality2
-  - reality3
   url: http://www.gstatic.com/generate_204
   interval: 300
   strategy: round-robin
